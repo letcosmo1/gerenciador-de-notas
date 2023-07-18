@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685248640 source:c:\program files\codeblocks\projetoav3\main.c
+	<mysql.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
